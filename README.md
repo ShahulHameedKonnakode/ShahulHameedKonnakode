@@ -4,7 +4,7 @@
 I'm a passionate software developer with a strong foundation in Python and full-stack development. My journey from a non-IT background to a confident developer showcases my dedication to learning and growth in the tech industry.
 
 ## 🛠 Skills
-- **Languages:** Python, JavaScript, SQL
+- **Languages:** Python, JavaScript, SQL, HTML, CSS
 - **Frameworks:** Django, Flask, Angular
 - **Tools:** Git, VS Code, Photoshop, CorelDraw, InDesign, Premiere Pro
 - **Other:** Graphic Design, Video Editing
