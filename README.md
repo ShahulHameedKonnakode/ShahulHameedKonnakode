@@ -4,7 +4,7 @@
 I'm a passionate software developer with a strong foundation in Python and full-stack development. My journey from a graphic designer to a confident developer showcases my dedication to learning and growth in the tech industry.
 
 ## 🛠 Skills
-- **Languages:** Python, JavaScript, SQL, HTML, CSS
+- **Languages:** https://www.python.org/, JavaScript, SQL, HTML, CSS
 - **Frameworks:** Django, Flask, Angular
 - **Tools:** Git, VS Code, Photoshop, CorelDraw, InDesign, Premiere Pro
 - **Other:** Graphic Design, Video Editing
@@ -24,6 +24,3 @@ I'm a passionate software developer with a strong foundation in Python and full-
 - I'm a quick learner and an effective team player.
 To add icons for languages and tools like the ones on the GitHub profile you shared, you can use Markdown along with badge services like [shields.io](https://shields.io/) or [Simple Icons](https://simpleicons.org/). Here's an example of how you can do it:
 
-```markdown
-
-```
