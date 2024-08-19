@@ -2,10 +2,9 @@
 ## I'm a passionate software developer with a strong foundation in Python and full-stack development.
 ## About Me
 I'm a passionate software developer with a strong foundation in Python and full-stack development. My journey from a graphic designer to a confident developer showcases my dedication to learning and growth in the tech industry.
+-
 
-Here's your updated text with appropriate icons:
 
----
 
 ### 🛠 Skills
 - **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
