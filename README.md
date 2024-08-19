@@ -30,6 +30,5 @@ I'm a passionate software developer with a strong foundation in Python and full-
 ## 🚀 Fun Facts
 - I transitioned from a graphic designer to a full-stack developer.
 - I'm a quick learner and an effective team player.
-Here's the updated text with appropriate icons:
 
 
