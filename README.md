@@ -20,7 +20,7 @@ I'm a passionate software developer with a strong foundation in Python and full-
 
 ---
 
-Feel free to copy and paste this into your README.md file. Let me know if you need any further adjustments or additions!
+
 
 ## 📫 Let's Connect
 - [LinkedIn](www.linkedin.com/in/shahul-hameed-konnakode-a04b38115)
