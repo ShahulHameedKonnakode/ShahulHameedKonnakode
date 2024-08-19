@@ -20,5 +20,5 @@ I'm a passionate software developer with a strong foundation in Python and full-
 - Email: shahulmanikkaparambath@gmail.com
 
 ## 🚀 Fun Facts
-- I transitioned from a non-IT background to a full-stack developer.
+- I transitioned from a graphic designer to a full-stack developer.
 - I'm a quick learner and an effective team player.
