@@ -3,9 +3,9 @@
 ## I'm a passionate software developer with a strong foundation in Python and full-stack development.
 
 ## About Me
--
+---
 I'm a passionate software developer with a strong foundation in Python and full-stack development. My journey from a graphic designer to a confident developer showcases my dedication to learning and growth in the tech industry.
--
+
 
 
 
